@@ -1,4 +1,4 @@
-###集合框架 API (from CORE JAVA-1)
+##集合框架 API (from CORE JAVA-1)
 
 ---
 
